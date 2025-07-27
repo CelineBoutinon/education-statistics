@@ -41,17 +41,12 @@ Les donnees-source sont disponibles sur https://datacatalog.worldbank.org/datase
 ## Langages & software
 
 * Python 3.9.13
-  * matplotlib 3.6.2
-  * missingno 0.5.1
-  * numpy 1.24.1
-  * pandas 1.5.2
-  * seaborn 0.12.2
+  * matplotlib 3.5.2
+  * missingno 0.4.1
+  * numpy 1.21.5
+  * pandas 1.4.4
+  * seaborn 0.11.2
   
-
-* Jupyter Notebook 6.4.12
-
-
-
 
 
 
