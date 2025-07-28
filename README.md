@@ -1,9 +1,7 @@
 ![Logo](logo.png)
 
 
-MENTIONS LÉGALES
 
-Cette étude a été produite par CelineBoutinon sur la base des données en libre-accès sur la base EdStats de la Banque Mondiale. La Banque Mondiale et ses fournisseurs de données ne donnent aucune garantie quant à l’exactitude, l’exhaustivité ou l’adéquation à l’usage des données et ne sauraient être tenus responsables de toute utilisation ou dépendance à l’égard de ces données, ni des produits ou conclusions qui en découlent. La Banque Mondiale n’endosse ni ne certifie aucune analyse, interprétation ou conclusion présentée ici. Pour plus de détails, veuillez consulter les Conditions d’utilisation de la Banque Mondiale : https://www.worldbank.org/en/about/legal/terms-of-use
 
 # ANALYSER LES DONNÉES DE SYSTÈMES ÉDUCATIFS
 
@@ -45,7 +43,9 @@ Les donnees-source sont disponibles sur https://datacatalog.worldbank.org/datase
 Voir requirements.txt pour la liste complète des librairies & packages.
   
 
+## MENTIONS LÉGALES / DISCLAIMER
 
+Cette étude a été produite par CelineBoutinon sur la base des données en libre-accès sur la base EdStats de la Banque Mondiale. La Banque Mondiale et ses fournisseurs de données ne donnent aucune garantie quant à l’exactitude, l’exhaustivité ou l’adéquation à l’usage des données et ne sauraient être tenus responsables de toute utilisation ou dépendance à l’égard de ces données, ni des produits ou conclusions qui en découlent. La Banque Mondiale n’endosse ni ne certifie aucune analyse, interprétation ou conclusion présentée ici. Pour plus de détails, veuillez consulter les Conditions d’utilisation de la Banque Mondiale : https://www.worldbank.org/en/about/legal/terms-of-use
 
-
+This study was produced by Celine Boutinon based on open-access data from the World Bank’s EdStats database. The World Bank and its data providers make no guarantees regarding the accuracy, completeness, or fitness for purpose of the data and shall not be held responsible for any use of or reliance on the data, nor for any products or conclusions derived from it. The World Bank does not endorse or certify any analysis, interpretation, or conclusion presented here. For more details, please consult the World Bank Terms of Use: https://www.worldbank.org/en/about/legal/terms-of-use
 
